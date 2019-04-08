@@ -4,7 +4,7 @@ Includes:
 * (gdocgen) A way to generate HTML-based email newsletter from a Google Doc
 
 
-## GDOCGEN
+## gdocgen
 
 A way to generate HTML-based email newsletter from a Google Doc.
 
@@ -12,9 +12,9 @@ A way to generate HTML-based email newsletter from a Google Doc.
 
 * Python 3 Installation ( I used the Anaconda 3.7 Package for Mac )
 * Packages ( I installed via "conda" )
- * BeautifulSoup
- * premailer
- * smtplist
+  * BeautifulSoup
+  * premailer
+  * smtplist
 
 ### Example
 
