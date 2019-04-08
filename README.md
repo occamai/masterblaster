@@ -20,14 +20,14 @@ A way to generate HTML-based email newsletter from a Google Doc.
 
 * Go into the "gdocgen" folder
 * run the "test.sh" script
-* using the "NewsLetter" GoogleDoc, it create a stand-alone html file that you can use in an email campaign ( ie, via MailChimp )
+* it will create a stand-alone html file that you can use in an email campaign ( ie, via MailChimp ) based on the "NewsLetter" example in the folder
 
 ### Use Your Google Doc
 
 * Craft a google doc in your google account
 * Download as HTML to your local machine
 * Use this path for the --gdochtml argument for gdocgen.py ( see test.sh )
-* It will create a standalone html file that you can use in an emal campaign ( ie, via MailChip )
+* This will create a standalone html file that you can use in an emal campaign ( ie, via MailChip )
 
 ### Sending Via SMTP
 
